@@ -14,7 +14,7 @@ body {
 }
 
 .bg-img {
-    background-image: url(../images/main-pic.png);
+    background-image: url("https://arslan01000.github.io/modern-blog-website/images/main-pic.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
